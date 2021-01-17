@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+button{
+    height: 2rem;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+.unavailable{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.upgrade-button{
+    margin-top: 1.5rem;
+}
+
+#upgrade-list{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+}
